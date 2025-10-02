@@ -1,0 +1,9 @@
+[Security]
+EAP-Method=PEAP
+EAP-Identity=email@example.com
+EAP-PEAP-Phase2-Method=MSCHAPV2
+EAP-PEAP-Phase2-Identity=username
+EAP-PEAP-Phase2-Password=password
+
+[Setting]
+Autoconnect=true
